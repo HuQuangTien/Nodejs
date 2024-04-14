@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "64491f49903624fa08f00dc6"
+  },
+  "email": "admin@gmail.com",
+  "phone": "0339911775",
+  "username": "HuynhQuangTien",
+  "password": "$2b$10$HAathgnQy3LZkX2c4tJXcuJ55qzhphtpyI.NEfsRMdFvpcla9dsiO",
+  "role": "isAdmin",
+  "status": "actived",
+  "image": "E:\\Kỳ Cuối\\Thứ 3\\img\\Tien.jpg",
+  "createdAt": {
+    "$date": "2023-04-26T12:55:37.978Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-26T12:55:37.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64491f7e903624fa08f00dcb"
+  },
+  "email": "client@gmail.com",
+  "phone": "0339911775",
+  "username": "HuynhQuangTien",
+  "password": "$2b$10$lkVrXppwZi.bMBBN2R/kfeb5i.QKkOe0tv1/.rjrIXyKzbH0PggNK",
+  "role": "isClient",
+  "status": "actived",
+  "image": "E:\\Kỳ Cuối\\Thứ 3\\img\\Tien.jpg",
+  "createdAt": {
+    "$date": "2023-04-26T12:56:30.535Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T05:13:08.176Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661693b3fe1bd62063082851"
+  },
+  "email": "huynhquangtien2k1@gmail.com",
+  "phone": "0339911775",
+  "username": "Huỳnh Quang Tiến",
+  "password": "$2b$10$5io9YpDBsGkb4eGHgdL/GOWUxvywnoL3y7FSgQJcU7n05nJWUESKu",
+  "role": "isAdmin",
+  "status": "actived",
+  "image": "E:\\Kỳ Cuối\\Thứ 3\\img\\Tien.jpg",
+  "createdAt": {
+    "$date": "2024-04-10T13:27:15.470Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T13:27:15.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6616940bfe1bd6206308285c"
+  },
+  "email": "caovuquang@gmail.com",
+  "phone": "0339911776",
+  "username": "caovuquang",
+  "password": "$2b$10$Upu7.3FB0DMed7LTZ0MTBu4AK2Zb5vrf/Z3b.Sjeoyd56FWkeRckW",
+  "role": "isClient",
+  "status": "noactive",
+  "image": "E:\\Kỳ Cuối\\Thứ 3\\img\\Quang.jpg",
+  "createdAt": {
+    "$date": "2024-04-10T13:28:43.570Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T13:28:43.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6618986ccba12fe833668b73"
+  },
+  "email": "dat09@gmail.com",
+  "phone": "0339911778",
+  "username": "Nguyễn Tấn Đạt",
+  "password": "$2b$10$RzP1nNCVbyViv2ZeS1V52uIyfUKlioZeJ3mEDoBuZZm98v8j5XGcO",
+  "role": "isClient",
+  "status": "noactive",
+  "image": "E:\\Kỳ Cuối\\Thứ 3\\img\\Dat.jpg",
+  "createdAt": {
+    "$date": "2024-04-12T02:11:56.602Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-12T02:11:56.602Z"
+  },
+  "__v": 0
+}]
